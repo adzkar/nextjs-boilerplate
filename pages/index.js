@@ -9,7 +9,7 @@ export default function Index() {
         <title>Sample App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Home />
+      {/* <Home /> */}
     </div>
   );
 }
