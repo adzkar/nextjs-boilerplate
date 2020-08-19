@@ -1,3 +1,3 @@
 export default {
-  pikachu: require("./pikachu.gif"),
+  pikachu: require('./pikachu.gif'),
 };
